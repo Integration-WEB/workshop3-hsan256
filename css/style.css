@@ -17,6 +17,14 @@ body {
   z-index: 1000;
 }
 
+.navbar-light {
+  background-color: white !important;
+}
+
+.caption {
+  position: absolute;
+  top: 40%;
+}
 
 
 /*============= FOOTER =============*/
